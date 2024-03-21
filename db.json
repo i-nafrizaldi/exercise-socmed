@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "post": "ivan",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "post": "nafri",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "post": "zaldi",
+      "author": "typicode"
+    }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+
+  "users": [
+    {
+      "name": "ivan",
+      "email": "ivan@mail.com",
+      "password": "sasadada",
+      "id": 1
+    },
+    {
+      "name": "nafri",
+      "email": "nafri@mail.com",
+      "password": "sasadada",
+      "id": 2
+    },
+    {
+      "name": "zaldi",
+      "email": "zaldi@mail.com",
+      "password": "sasadada",
+      "id": 3
+    }
+  ]
+}
