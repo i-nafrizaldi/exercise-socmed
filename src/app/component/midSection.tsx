@@ -30,9 +30,9 @@ const MidSection: React.FC = () => {
         <div className="text-right">
           <Button className="mt-2 w-20">Tweeps</Button>
         </div>
-        <Separator/>
+        <Separator />
 
-        <div className=" space-y-8">
+        {/* <div className=" space-y-8">
           <Card className="">
             <CardContent>
               <p>Card Content</p>
@@ -53,7 +53,7 @@ const MidSection: React.FC = () => {
               <p>Card Content</p>
             </CardContent>
           </Card>
-        </div>
+        </div> */}
       </div>
     </div>
   );
