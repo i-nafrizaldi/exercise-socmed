@@ -1,41 +1,25 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "post": "ivan",
-      "author": "typicode"
-    },
-    {
-      "id": 2,
-      "post": "nafri",
-      "author": "typicode"
-    },
-    {
-      "id": 3,
-      "post": "zaldi",
-      "author": "typicode"
-    }
-  ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-
   "users": [
     {
+      "id": 1,
+      "name": "Jokowi Dodol",
+      "email": "joko@mail.com",
+      "password": "Admin123",
+      "isVerify": true
+    },
+    {
+      "id": "3f35",
       "name": "ivan",
       "email": "ivan@mail.com",
-      "password": "sasadada",
-      "id": 1
+      "password": "Admin123",
+      "isVerify": false
     },
     {
-      "name": "nafri",
-      "email": "nafri@mail.com",
-      "password": "sasadada",
-      "id": 2
-    },
-    {
-      "name": "zaldi",
-      "email": "zaldi@mail.com",
-      "password": "sasadada",
-      "id": 3
+      "id": "3be5",
+      "name": "ivan",
+      "email": "ivan@mail",
+      "password": "Admin123",
+      "isVerify": false
     }
   ]
 }
